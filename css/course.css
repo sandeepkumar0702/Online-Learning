@@ -1,0 +1,12 @@
+@import url('./bootstrap.css');
+@import url('./style.css');
+
+video{
+    width: 400px;
+    margin: 20px 10px;
+}
+
+.container h1{
+    position: relative;
+    left: 15px;
+}
